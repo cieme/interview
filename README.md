@@ -1,7 +1,5 @@
 # interview
 
->如需转载文档，请联系作者@livs-ops进行授权！
->联系方式WeChat: Kennethlivs
 #### HTML篇
 
 1. 你是如何理解HTML语义化的？
@@ -248,7 +246,7 @@ const App = () => (
 
 <br>
 
-### 场景篇
+#### 场景篇
 
 1. 统一登录国际化问题
 
